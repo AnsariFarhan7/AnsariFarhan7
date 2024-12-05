@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnsariFarhan7
+- 👋 Hi, I’m Farhan Ansari
 - 👀 I’m interested in app development.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
